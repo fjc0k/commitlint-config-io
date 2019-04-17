@@ -1,20 +1,20 @@
 {
-  "name": "commitlint-config-io",
+  "name": "conventional-changelog-lint-config-io",
   "version": "0.1.0",
   "description": "A Commitlint Config.",
   "main": "src/index.js",
-  "homepage": "https://github.com/fjc0k/commitlint-config-io",
+  "homepage": "https://github.com/fjc0k/conventional-changelog-lint-config-io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fjc0k/commitlint-config-io.git"
+    "url": "git@github.com:fjc0k/conventional-changelog-lint-config-io.git"
   },
   "bugs": {
-    "url": "https://github.com/fjc0k/commitlint-config-io/issues"
+    "url": "https://github.com/fjc0k/conventional-changelog-lint-config-io/issues"
   },
   "keywords": [
-    "commitlint",
-    "commitlint-config"
+    "conventional-changelog-lint",
+    "conventional-changelog-lint-config"
   ],
   "author": {
     "name": "Jay Fong",
