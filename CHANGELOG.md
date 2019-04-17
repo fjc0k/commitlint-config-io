@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [0.3.0](https://github.com/fjc0k/commitlint-config-io/compare/v0.2.0...v0.3.0) (2019-04-17)
+
+
+### Features
+
+* rename to commitlint-config-io ([ad08240](https://github.com/fjc0k/commitlint-config-io/commit/ad08240))
+
+
+
 # [0.2.0](https://github.com/fjc0k/conventional-changelog-lint-config-io/compare/v0.1.0...v0.2.0) (2019-04-17)
 
 
